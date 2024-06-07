@@ -1,3 +1,62 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-size: 16px;
+}
+h1 {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.08;
+  background-color: #2e2f42;
+}
+h2 {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.12;
+}
+h3 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+p {
+  font-weight: 400;
+  line-height: 1.5;
+}
 ul {
   list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+a:hover {
+  color: #404bbf;
+}
+a:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+.web {
+  font-family: Raleway;
+  color: #4d5ae5;
+  font-size: 18;
+  font-weight: 700;
+}
+.studio {
+  font-family: Raleway;
+  color: #2e2f42;
+  font-size: 18;
+  font-weight: 700;
+}
+button {
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+button:hover {
+  background-color: #404bbf;
 }
