@@ -53,18 +53,6 @@ a:active {
   color: #404bbf;
   text-decoration: underline;
 }
-.web {
-  font-family: Raleway;
-  color: #4d5ae5;
-  font-size: 18;
-  font-weight: 700;
-}
-.studio {
-  font-family: Raleway;
-  color: #2e2f42;
-  font-size: 18;
-  font-weight: 700;
-}
 button {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
