@@ -46,6 +46,9 @@ a {
 a:hover {
   color: #404bbf;
 }
+a:focus {
+  color: #404bbf;
+}
 a:active {
   color: #404bbf;
   text-decoration: underline;
@@ -104,4 +107,22 @@ button:focus {
 }
 .footer-text {
   color: #f4f4fd;
+}
+.logo-studio-head {
+  color: #2e2f42;
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.contacts-adress {
+  font-style: normal;
+}
+.adress-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
