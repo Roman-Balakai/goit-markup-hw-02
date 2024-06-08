@@ -14,7 +14,10 @@ h2 {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.12;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 h3 {
   color: #2e2f42;
@@ -23,6 +26,7 @@ h3 {
   line-height: 1.5;
 }
 p {
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
 }
